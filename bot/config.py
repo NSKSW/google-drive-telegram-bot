@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1814747417:AAGcBPHCmlo29O3_HvS3vHx4z0b0_FM2M6M"
+    APP_ID = "7345367"
+    API_HASH = "e6cc8a85acb623ee10d71e806b7acbf5"
+    DATABASE_URL = "postgres://tblqslyrjusqoz:c9567df0477425a8245749cae5ebd63647a17d658b27f2803fd64b0645d7ae7c@ec2-34-234-12-149.compute-1.amazonaws.com:5432/d71bbmllce9mvk"
+    SUDO_USERS = "1220090752" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://github.com/viperadnan-git/google-drive-telegram-bot"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
